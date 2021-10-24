@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning statistics. 
 - 💞️ I’m looking to collaborate on machine learning projects. 
 - 📫 How to reach me: 2370347112@qq.com
+- Personal Blog: [klein-wang.github.io](klein-wang.github.io)
 
 <!---
 klein-wang/klein-wang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
